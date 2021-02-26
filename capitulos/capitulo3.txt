@@ -1,1 +1,0 @@
-GIt permite la creación de ramas lo que permite tener distintas versiones del proyecto y trabajar de manera simultanea en ellas.
